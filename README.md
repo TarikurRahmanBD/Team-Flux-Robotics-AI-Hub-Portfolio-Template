@@ -7,7 +7,7 @@ A sleek, ultra-modern, and fully responsive portfolio template designed for robo
 ---
 
 ## 👨‍💻 Developed & Maintained By
-*   **Lead Architect & Developer:** **[Tarikur Rahman](https://yourtarikur.netlify.app)** 
+*   **Lead Architect & Developer:** **[Tarikur Rahman](https://yourtarikur.vercel.app)** 
 *   **GitHub Profile:** [@tarikurrahmanbd](https://github.com/tarikurrahmanbd)
 *   **Personal Portfolio:** 🌐 **[yourtarikur.vercel.app](https://yourtarikur.vercel.app)**
 
